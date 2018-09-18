@@ -1,3 +1,3 @@
-Yet Another Multi Tools Minecraft Plugin
+#Yet Another Multi Tools Minecraft Plugin
 
 BungeeCord Core plugin
