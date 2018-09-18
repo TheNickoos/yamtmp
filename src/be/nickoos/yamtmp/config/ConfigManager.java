@@ -12,8 +12,7 @@ import net.md_5.bungee.config.ConfigurationProvider;
 import net.md_5.bungee.config.YamlConfiguration;
 
 
-
-public class Configuration {
+public class ConfigManager {
     public net.md_5.bungee.config.Configuration load(String folder, String config) {
         net.md_5.bungee.config.Configuration configuration = null;
         File f = null;
@@ -30,6 +29,7 @@ public class Configuration {
         }
         return null;
     }
+
     public net.md_5.bungee.config.Configuration load(String config) {
         net.md_5.bungee.config.Configuration configuration = null;
         try {
