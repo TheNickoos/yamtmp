@@ -19,7 +19,7 @@ message-prefix: '&c[Annonce] '
 database:
   address: localhost
   port: 3306
-  name: V6_bungee_yamtmp
-  username: bungee
-  password: SxN7VU9XzeOw5jYj
+  name: basename
+  username: username
+  password: password
   table-prefix: yamtmp_
